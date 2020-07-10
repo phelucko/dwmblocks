@@ -20,6 +20,7 @@ static const Block blocks[] = {
 	{"",	"battery",	5,	3},
 	{"",	"clock",	60,	1},
 	{"",	"internet",	5,	4},
+	{"",	"usbdrive",	0,	23},
 	{"",	"help-icon",	0,	15},
 };
 
